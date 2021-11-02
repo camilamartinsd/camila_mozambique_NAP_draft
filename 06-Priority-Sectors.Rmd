@@ -1,0 +1,281 @@
+# Priority Sectors
+
+## Agriculture and Livestock
+
+* __Objective (NCCAMS): Increase the resilience of agriculture and livestock__ 
+
+### Context 
+
+Agriculture in Mozambique is the basis for development, constituting the most important source of income and subsistence for more than 80% of the population and with an average share of GDP above 20% of the total (INE: National Accounts, 2008 – 2018 ). The agriculture sector also plays an essential role for women's livelihoods, as 90% of the economically active female population earns a living from agriculture. Furthermore, women constitute 61% of the agricultural workforce. The country's agricultural potential is estimated at 62% of the total area, but only 7% of the area is currently cultivated (CIAT; World Bank. 2017). Of the 3 million hectares of land with potential for irrigated agriculture, only 118,000 hectares were equipped for irrigation in 2015 and only 62,000 ha (52%) were being used for irrigated agriculture (CIAT; World Bank. 2017). The country's National Development strategy (2015-2035), the Green Economy Action Plan (2013-2030), the National Climate Change Adaptation and Mitigation Strategy (2013-2025), identify the agriculture sector as essential for poverty reduction and to stimulate economic growth, as well as the one with the greatest potential for adaptation and emission reduction through the promotion of resilient production techniques and systems.
+
+The staple food production is dominated by cereals such as maize, sorghum, millet and rice. Rice production has shown great expression in recent years with the expansion of national production on a commercial scale. Regarding cash crops, cotton, sugar cane and tobacco are the most expressive crops both in terms of area covered and production volume. Rice production is carried out in irrigated areas and flood plains. Rice constitutes the third most important crop in the group of cereals, having increased the cultivated area from 200,000 hectares in 2006 to 300,000 hectares in 2012, although the national potential is about 900,000 hectares.
+
+Agriculture in Mozambique is mainly dominated by the family sector whose production is subsistence-oriented, rainfed, and highly vulnerable to climate variability. In terms of farm size, approximately 72% of the country's farmers work on plots of land that do not exceed 2ha, using limited amounts of inputs and practicing extensive slash and burn (CIAT; World Bank. 2017). Livestock production and savannah burning represent two main sources of greenhouse gas (GHG) emissions in the agriculture sector.
+
+Livestock production is a relevant activity in the agricultural sector. Animal husbandry is a component of diversification of peasants' livelihoods, constitutes a source of income and an economic reserve, contributes to the balance of production systems, to increase agricultural production, with animal traction and manure, and for the food security of families, playing a social role in rural communities. Livestock production is mainly carried out by the family sector for subsistence (mainly small animals such as goats, rabbits, chickens, ducks), but large-scale production has been increasing in recent years, mainly cattle (cattle, pigs, goats and sheep) and broilers and egg production.
+
+Although agriculture is the economic base of the majority of the country's population, it is constrained by low soil productivity; biotic and abiotic factors such as high pest, disease and weed pressure, and irregularity and scarcity of rainfall, respectively; low use of inputs (fertilizers, pesticides and improved seed); and the low level of use of appropriate technologies. Other factors that also contribute to low productivity include poor agronomic practices and insufficient extension services due to low geographical coverage.
+Vulnerability to Climate Change and Disasters
+
+_(Source: Second National Communication Draft)_
+
+### Vulnerability to Climate Change and Disasters 
+
+Agriculture is considered to be the basis for Mozambique's development. This sector is made up of small, medium and large producers. The most predominant class is smallholders who use approximately 97% of the approximately five million arable land currently used for agriculture (Mozambique Government - PAPA, 2008).
+
+In 2010, agriculture contributed 23% to the Gross Domestic Product (INE). Furthermore, 80% of the country's active population is employed in the agrarian sector. Thus, this sector is fundamental for poverty reduction and income generation for rural families, since most of this population depends on agriculture for food, employment and income.
+
+A critical factor in agricultural production is access to and distribution of water throughout the vegetative cycle of crops. Production and productivity levels are affected by changes in climatic parameters, in particular variations in rainfall, given that around 98% of farmers practice rainfed agriculture (CAP, 1999-2000).
+
+According to the rainy season balance sheets, the agriculture sector is vulnerable to drought and drought events, floods and inundations, strong winds, tropical cyclones including pests (see Table 3.3). These events result in crop areas affected and/or lost; death and/or disappearance of domestic animals, especially cattle, goats, pigs, sheep and poultry; destruction of agricultural and animal management infrastructures; loss of pasture areas, affecting farmers and their families.
+
+_Table 3.3: Impact of climate change on agriculture_
+
+![](Agriculture-impact.png){width=150%}
+
+_Source: Balances of the rainy seasons for the period 2011-12 to 2017-18_
+
+Weather events in the country between the rainy seasons from 2011-12 to 2017-18 affected around 1,384,677 ha of crops, of which around 733,270 ha were lost. The events that affected the largest area of crops were the tropical depression Dando and the tropical cyclone Funso, which occurred in the 2011-12 rainy season, while the greatest loss of crops occurred following the floods of 2012-2013.
+
+The events that cause most loss and destruction in the agricultural sector are those related to excessive rainfall and floods and tropical cyclones. However, when a drought occurs, usually the area affected equals the area lost.
+
+It is also important to stress that in addition to the biophysical vulnerability associated with the occurrence of extreme weather events, the levels of technology adopted by most producers do not correspond to the requirements of the selected varieties, due to the weak financial capacity to purchase agricultural inputs, which also contributes to low production and productivity.
+
+Livestock plays a vital role for the rural population, it is one of the components of agriculture. The contribution of livestock to the national economy is incipient. In 2008, livestock represented 10% of total agricultural production and contributed only 1.7% to the Gross Domestic Product (OIE Report, 2008). However, animal production is affected by climate change in food quantity and quality, disease distribution, management practices and production systems (Herrero et al. 2009).
+
+The main constraints to the development of livestock production are as follows:
+
+(i) Low productivity of existing herds due to the genetic quality of breeding stock and inadequate management practices;
+
+(ii) Weak veterinary assistance network for the family sector; 
+
+(iii) Lack of infrastructure for watering and managing livestock.
+
+PEDSA identifies drought as one of the environmental factors causing a notable loss of productivity and the use of technologies to improve water availability and management as a key element to improve livestock production. For example, in 2015, 6,767 cattle and 112 goats died nationwide due to drought.
+
+In semi-arid regions, livestock production is a way for farmers to adapt to climate change, as animals are relatively less affected. However, several aspects of livestock production are affected by climate change, including feed quantity and quality, disease distribution, management practices and production systems (Herrero et al. 2009). Therefore, to achieve the above Government objectives, investment is needed to address any constraints to livestock productivity, including climate change.
+
+The vulnerability and adaptation of pastures and livestock are matters of great concern in developing countries such as Mozambique, due to the great importance of livestock as a livelihood component and source of income for local communities. The objectives of this sub-chapter are:
+
+(1) Assess the expected impacts and vulnerability of pasture and livestock to climate change; 
+
+(2) Identify adaptation programmes and measures; 
+
+(3) Identify gaps, needs and priorities for climate change education, training and public awareness.
+
+It should be noted that the impacts of extreme climate events on livestock are already a reality in the country, as illustrated in Table 3.4. The observed impacts range from the loss of animals through death to the destruction of livestock management infrastructures, including the loss of pasture areas.
+
+_Table 3.4: Impacts of extreme events on livestock_
+
+![](Livestock.png){width=75%}
+
+_(Source: Second National Communication Draft)_
+
+### Actions
+
+_(From the Adaptation Assessment – NAP Prototype)_
+
+![](ALactions.png)
+
+## Fishery
+
+* __Objective (NCCAMS): Increase the resilience of fisheries__ 
+
+### Context 
+
+The Mozambican coastline has an extension of about 2,700 km, and several fishing resources can be identified. According to the Fisheries Master Plan (2010-2019), it is estimated that the potential of fishery products in Mozambique is around 332,000 tonnes, the main resources being shallow water shrimp (in the Sofala Bank and in the Maputo Bay), deep-sea crustaceans (in the continental slope of the central and southern zone), horse mackerel and mackerel (in the Sofala Bank) and demersal fish (in the southern and northern zone).
+
+It is estimated that the fishing sector contributes about 4% to GDP (MIMAIP, 2016) through the export of shrimp, prawns and other fishery products, with a global production of about 151,000 tons per year from fishing marine and inland waters (Ministerial Diploma No. 161/2014 of 1 October). Fisheries contribute to food security and especially by providing about 50% of the animal protein consumed in the country (MIMAIP, 2016). Therefore, a breakdown in fisheries-based ecosystems and resources will have severe socio-economic implications.
+
+_(Source: Second National Communication Draft)_
+
+### Vulnerability to Climate Change and Disasters 
+
+The fishing sector represents about 3% of the country's GDP, resulting from the export of shrimp, prawns and other fishery products. On the other hand, fishing resources are the source of subsistence and income for around 60% of the Mozambican population living in coastal areas. However, the IPCC (2007) indicates that coastal regions are the ones that will suffer the most from the impacts of climate change. For these reasons, it is important to determine the vulnerability of fisheries resources to climate change and identify adaptation mechanisms in order to achieve the sustainability objectives of the fishing activity.
+
+Climate change risks to marine and fisheries resources include increases in temperature, precipitation and sea level, coastal storms and acidification of estuaries. This could decrease fish stocks, alter markets and influence tourism in the marine environment.
+
+_(Source: Second National Communication Draft)_
+
+### Actions
+
+_(From the Adaptation Assessment – NAP Prototype)_
+
+![](Factions.png)
+
+## Food Security and Nutrition
+
+* __Objective (NCCAMS): Guarantee adequate levels of food security and nutrition__ 
+
+### Context 
+
+Food insecurity and chronic malnutrition are among the greatest development challenges for Mozambique. Chronic malnutrition affects 43% of children under the age of five. In 2015, there were 2.1 million (out of 4.8 million) [7] children with chronic malnutrition. This situation is especially critical in children aged one to five years, 47% of whom had short stature for their age (chronically malnourished) and 6.1% suffered from marasmus (acute malnutrition). In addition, more than half of women (51%) of reproductive age are anemic. 
+
+In Mozambique, malnutrition rates increase progressively from south to north. Chronic malnutrition is over 50% in the north, in Nampula and Cabo Delgado provinces, while it is less than 30% in Maputo and Gaza provinces.
+
+At the same time, 7.8% of children under five years old are overweight. The prevalence of overweight/obesity in women of reproductive age (BMI>25kg/m²) is 16.4%. This situation is especially worrying in urban areas, where this prevalence is 27%, while in rural areas it is 10.5%. Obesity (BMI>30kg/m²) affects 4.2% of women of reproductive age (15-49 years), and its incidence is higher in urban families, reaching 8.9% of these, and lower in rural areas, with prevalence of 1.6%. 
+
+The 2016 study, Cost of Hunger in Africa, reveals that in 2015, malnutrition cost Mozambique almost 11% of its Gross Domestic Product (GDP) - the equivalent of US$1.7 billion. The loss of potential productivity as a result of malnutrition-related mortality, morbidity and reduced cognitive development accounts for much of this cost. It is estimated that between 2011 and 2015 alone, 211,611 child deaths are directly associated with malnutrition, representing 25.6% of child mortality 
+
+_(Source: nutrition smart agriculture)._
+
+The effects of food insecurity are even more severe when many families in the country are weakened by diseases such as HIV/AIDS and malaria. These families lack labor at crucial moments of agricultural activity, such as sowing, weeding and harvesting, with an adverse impact on the cultivated area and yields. These families are also victims of malnutrition. Nutritional status is also low, and the lack of production for sale means lack of availability of money for health care. Low agricultural yields coupled with low levels of use of modern inputs such as fertilizers, improved seeds, and lack of proper water management also contribute to chronic food insecurity. The presence of poor rural roads means that an effective response to food shortages by traders in other areas is difficult.
+
+The above situation is reflected in the current situation of chronic malnutrition whose main immediate causes in Mozambique are inadequate nutrient intake, high levels of infection and early pregnancy. Diets are monotonous, with micronutrient deficiencies, affecting the majority of the population. Malaria and gastrointestinal parasites affect half the population. The same proportion among women is attended in prenatal consultations for having sexually transmitted diseases, in addition to half of them being pregnant as children. Only 40 percent of children under six months are exclusively breastfed. Underlying causes of chronic malnutrition are food insecurity (especially in limited access to and use of nutritious food), poverty and inadequate practices in relation to caring for adolescent girls, mothers and children, as well as insufficient access to health, water and to sanitation services. The basic causes of chronic malnutrition, in addition to poverty, include the low level of general and nutritional education, and gender inequality (the latter responsible for early marriages and pregnancies).
+
+_(Source: PLANO NACIONAL DE INVESTIMENTO DO SECTOR AGRÁRIO PNISA 2013 -2017)_
+
+### Vulnerability to Climate Change and Disasters
+
+Mozambique is a country prone to climate impacts that further compromise food and nutrition security in some areas. Mozambique ranks third among African countries most exposed to various climate-related risks, suffering from cyclones, periodic droughts and floods, and related epidemics. For example, due to Cyclone Idai, which hit the country in March 2019, hundreds of rural communities suffered from food shortages and plunged into a nutritional crisis. Six weeks later, Cyclone Kenneth arrived in northern Mozambique. 
+
+_(source: nutrition smart agriculture)_
+
+Part of the food insecurity in Mozambique results from sporadic food shortages caused by disasters. One of the largest disasters occurred in 2000 with dramatic effects on the food security situation. Torrential rains and cyclones systematically provoked flooding with the most serious effects for the provinces of Maputo, Gaza, Inhambane, Sofala and Manica causing devastation. In addition to people being displaced, and extensive material damage to public infrastructure such as schools, hospitals, water and electricity supply systems, road, rail and telecommunications networks, damages include crop losses, particularly food and livestock. Flood periods are followed by years of drought that affect a significant proportion of crops, leading many families to face severe food deficits. 
+
+However, in order to address the impact of natural disasters on food security, it is of utmost importance to ensure that the investments to be made and changes to be made in food production do not compromise the food and nutrition security of vulnerable groups and the progressive realisation of the human right to adequate food. 
+
+_(Source: PLANO NACIONAL DE INVESTIMENTO DO SECTOR AGRÁRIO PNISA 2013 -2017)_
+
+### Actions
+
+## Water Resources
+
+* __Objective (NCCAMS):__ 
+  + __Increase capacity to manage water resources__ 
+  + __Increase access and capacity to capture, store, treat and distribute water__
+
+### Context
+
+Mozambique is located in the eastern part of Southern Africa, has a total area of approximately 801,590 km2 and 2,700 km of coastline. According to INE, the population is projected to be 25.53 million in 2015, of which 68% live in rural areas and 32% in urban areas. The country is administratively divided into 11 provinces (Niassa, Cabo- Delgado, Nampula, Zambézia, Tete, Manica, Sofala, Inhambane, Gaza, Maputo-Province and Maputo-City. In terms of operational water resources management Mozambique has 5 Regional Water Administrations, namely: Northern, Central-North, Zambezi, Central and Southern (figure 1).
+
+![](HR.png)
+
+_Figure 1: Division of Mozambique by Hydrographic Regions_ 
+
+The situation of water resources and their management in Mozambique can be defined as being at an intermediate stage of implementation of the sector reforms initiated at the beginning of the 1990s with the approval of Law No. 16/91 of 3 August 1991 approving the Water Law:
+
+* The average availability of water resources can be considered as good, with an average annual runoff of 216,500 Mm3/year for a total population total population of 25.53 million inhabitants, which translates into an average of 8,481 m3/year of average per capita, which is well above the so-called water stress levels (<1,700 m3/year). However, its unequal distribution in space and time means that there are periods of the year and geographical locations of abundance and scarcity. The Centre-North and South regions are of greater concern because they have the lowest per capita availability;
+
+*	Mozambique has one of the lowest storage capacities in Africa as it has the capacity to store only 0.5% of its capacity of its average annual runoff. To make matters worse, 90% of this capacity is concentrated in the Cahora-Bassa dam which has a main purpose of energy production. The country already faces storage challenges in meeting basic needs (water supply) in some of its main urban centres, namely Lichinga, Cuamba, Pemba, Nampula, Nacala, Quelimane, Beira/ Dondo and the Maputo metropolitan region;
+
+*	The water bodies face some limited water quality challenges, mostly related to pollution due to irrigation returns and urban effluents upstream in neighbouring countries (in some of the shared basins) and due to mining activities, unregulated land uses in some watercourses and saline intrusion;
+
+*	Mozambique is located downstream of all basins shared with other countries, except for the the Rovuma basin. In some of these basins intensive water use is already observed in the upstream countries, especially in agriculture. The Save basin presents the most critical situation due to the combination of seasonal rainfall and intensive use of upstream resources, where irrigated agriculture and a significant part of Zimbabwean industry is concentrated. The situation is not very different in the southern basins shared with South Africa and Swaziland with highly developed irrigated agriculture. Therefore, strategic planning for water resources management must take into account these adverse factors;
+
+*	Due to its geographical location, Mozambique is highly vulnerable to the negative impacts of climate change that are projected to translate into increased occurrence of extreme events such as extreme floods and droughts and the occurrence of cyclones. The 2,700 km long coastline could suffer from rising sea levels with impacts on social and economic infrastructure and degradation of water quality, soil quality and biodiversity destruction in areas potentially affected by saline intrusion;
+
+*	The monitoring of water resources is not yet at the desired levels and is characterised by a network of hydro-climatological observation network that does not meet some of the coverage requirements, the data collected is, in some cases, of poor quality and the monitoring, operation and maintenance costs are beyond the financial capacities of the management institutions;
+
+*	The operational management of water resources is carried out in a decentralised manner by hydrographic regions of which there are five, namely North, Central North, Zambezi, Central and South. The process of establishing the respective institutions is still in the consolidation phase in terms of technical capacities and means, including the creation of some basin units and committees to complete the governance framework (River Basin Management Units and the respective Committees);
+
+*	Strategic water resources development plans exist for only a small number of river basins;
+
+*	Despite some progress observed with regard to the establishment of cooperation with neighbouring countries with which Mozambique shares hydrographic basins of Rovuma, Zambeze, Púngoè, Búzi, Save, Limpopo, Incomáti, Umbeluzi and Maputo, the process is still incomplete and needs consolidation;
+
+*	The implementation of development projects and financing of day-to-day water management activities water resources is still dependent on government subsidies or funding from external cooperation partners, due to the limited amount of own revenue that the sub-sector produces; and
+
+*	Existing institutional capacity (material and human resources) is still limited to respond adequately to the challenges of integrated water resources management at both central and regional/local levels.
+
+_(Source: Water Sector Action Plan for the Implementation of Sustainable Development Goals 2015 – 2030)_
+
+### Vulnerability to Climate Change and Disasters
+
+Mozambique is located on the East African coast at the confluence of many international rivers and has 2,700 km of coastline. The country has a tropical and subtropical climate with some semi-arid regions in the south-western part. The average temperature tends to be high along the coast and lower in the interior, with a seasonal variation that includes cold and dry periods from April to September and hot and humid periods from October to March. Precipitation also shows the same trend, occurring in the hot season (November to April) and is not evenly distributed across regions, with the north recording averages of 150-300 mm and the south 50-150 mm per month in the wet season.
+
+Mozambique is one of the African countries most vulnerable to climate change due to its geographical location described above, its climate specificities and also the fact that a significant part of the coastline is below sea level. Although more detailed models on climate change and its impacts are not yet available, some worrying trends have already been recorded and are projected to worsen in the future. Average annual temperature is estimated to have increased by 0.6°C from 1960 to 2006 (IRISH AID, 2016 & MER, 2015), with highest increases observed in the southern region and according to various sources, the average temperature will continue to record significant increases in the future: IRISH AID (206) - from 1 to 2.8 ºC by 2060; MER (2015): up to 4.6 ºC by 2090/2100; Charles & Twena (3006) - from 1.8 to 3.2 ºC by 2075; and INGC (2009) - average of 2.5 to 3.5 ºC by 2046/65. The frequency of hot days also registered an increase and is also projected to continue with the same trend with greater impact on the northern region. As for precipitation, no significant changes have been observed to date, except for the tendency to delay the onset of the rainy season and persistence of dry days and increase in the length of the dry season in some specific areas. Substantial changes in mean rainfall are also not expected in the future, but greater variability is projected with increased rainfall in the wet season offset by its decrease in the dry season and also increased rainfall on the coast relative to the interior (INGC, 2009 & IRISH AID, 2016). The projected increase in precipitation for coastal areas is however less than the increase in evapotranspiration due to longer and more intense dry periods and reduced soil moisture.
+
+Overall, projections suggest that the climate will become more extreme with intense droughts and floods and therefore affecting the availability of water resources in space and time impacting on the availability of water to meet basic needs, security of people and socio-economic infrastructure and food security in various forms, including:
+
+* High levels of evapotranspiration could result in increased water demand in central and southern regions, which were projected to exceed the increase in precipitation on the coast;
+
+*	Reductions in rainfall in the upstream countries of the international rivers that share watercourses with Mozambique that may potentiate a reduction in the availability of border flows, particularly in Zimbabwe and Zambia; 
+
+*	More accelerated reduction in per capita water availability due to reductions in water resources against population growth, especially in regions of higher population concentration;
+
+*	The current pattern of water use combined with the impact of climate change will most likely to put considerable pressure on the Zambezi basin and place the Limpopo basin in absolute shortage;
+
+*	The most direct social impact of reductions in water resource availability is the lack of water for basic needs, lack of water for irrigation, reduced groundwater recharge and reduction of the water table in major aquifers;
+
+*	Negative impact on water quality and soil degradation as a result of saline intrusion in coastal areas. 
+
+The summary of the main impacts related to climate change as well as the strategic actions in the area of water resources that will contribute to the minimization of its impacts are presented in table 7.
+
+_Table 7: Climate change and potential impacts_
+
+![](WReffects.png)
+
+Due to its geographical location, Mozambique is vulnerable to tropical cyclones and El Nino/La Nina phenomena that have been characterized by the occurrence of cyclical floods and droughts. Vulnerability to floods and droughts is exacerbated by the lack of hydraulic infrastructure capable of ensuring mitigation and enabling the country's resilience and adaptation to these events.
+
+In recent years the country has frequently registered flood scenarios that have been having a negative impact on the country's socio-economic development (loss of human lives and socio-economic infrastructures). The main factors contributing to floods in Mozambique are: intense and concentrated precipitations in a certain period of time (rainy season), runoff from neighboring countries (9 basins shared with neighboring countries, almost all located upstream), watercourses crossing plains, human occupation of inundation and flood prone areas and the insufficiency of hydraulic infrastructures for flood mitigation. There are 10 flood prone basins, most of them being transboundary, and the most critical being the Zambezi and Limpopo, as shown in table 8, regarding the record of occurrence of critical floods in recent years.
+
+_Table 8: Historical flood records 1977 – 2015_
+
+![](Hfloods.png)
+
+Southern Mozambique, and particularly the provinces of Inhambane, Gaza and the northern part of Maputo province and the Central region with incidence on Tete province and southern Manica and Sofala provinces, present the highest vulnerability to droughts. The most severe droughts in recent years were registered in the years 1984/85, 1997/98 and 2015/2016 resulting in a negative impact on agricultural and livestock production and placing a considerable part of the population in a situation of extreme food insecurity.
+
+Forecasts of the impacts of climate change available point to the worsening of droughts in the country and, above all, in the provinces of the southern region of the country.
+
+_(Source: Water Sector Action Plan for the Implementation of Sustainable Development Goals 2015 – 2030)_
+
+### Actions
+
+_(From the Water Sector Action Plan for the Implementation of Sustainable Development Goals 2015 – 2030)_
+
+![](Wactions1.png)
+
+_(From the National Water Resources Plan)_
+
+![](Wactions2.png)
+
+_(From the Adaptation Assessment – NAP Prototype)_
+
+![](Wactions3.png)
+
+## Health
+
+## Energy
+
+___(From Second National Communication Draft)___
+
+Mozambique has enormous energy resources that are still unexplored, including coal and natural gas, water potential, renewable resources such as solar, wind, water, geothermal, ocean and forest and agricultural biomass sources (ME, 2011). At the same time, the country is one of the countries with the lowest levels of energy consumption in Southern Africa, with around 80% of the country's energy consumption based on biomass (firewood and charcoal) and around 17% of the population with access to electricity (ME, 2011).
+
+Access to energy is a _sine qua non_ condition in the fight against poverty, as it is a means that intervenes in all key sectors of development, whether water, health, food refrigeration, lighting, and domestic heating, transport, agriculture, industrial production or even modern means of communication (Sebastião, 2013). In order to realize one of the national development objectives, the President of the Republic launched in November 2018 the Programme "Energy for All by 2030". This Programme aims to intensify access to electricity for more households and businesses nationally, as a contribution to Mozambique's universal electrification by 2030, defined in the National Electrification Strategy (ENE), approved by the Council of Ministers on 16 October 2018. The Project will support the expansion of power access to peri-urban and rural areas across the country by leveraging and extending the existing national electricity grid and deploying mini-grids on the basis of solar generation in areas not covered by the national grid.
+
+INGD's rainy season balance reports show that the power sector has been affected by extreme events that occur in the country, particularly strong winds, tropical cyclones, floods and inundations (Table 3.13).
+
+_Table 3.13: Impacts of extreme events on the energy sector_
+
+![](Energy.png)
+
+Extreme weather events have resulted in the destruction of privately and publicly owned solar panels. One of the examples is the destruction of 11 solar panels providing electricity to a health house in Mossuril district, Nampula province, during the passage of cyclone Jokwe in Mossuril district.
+
+## Infrastructure
+
+## Coastal Zones
+
+## Biodiversity
+
+___(From Second National Communication Draft)___
+
+Biodiversity represents a vital pillar for the development of Mozambique and for the livelihood of the majority of the population of this country (MITADER, 2015). The country has 4 important natural ecosystem groups: (i) terrestrial ecosystems, (ii) marine and coastal ecosystems, (iii) inland water ecosystems and (iv) coastal ecosystems. These encompass a considerable biological diversity estimated at over 6,000 plant species and 4,200 animal species (3,075 insects, 726 birds, 214 mammals, 171 reptiles and 85 amphibians). There is also considerable potential for agro-livestock production and diversity, which is distributed in 10 agro-ecological zones. In terms of coastal and marine biodiversity, 194 species of coral, 9 species of mangrove plants, 13 species of marine meadows, 5 species of turtles, 18 species of marine mammals (7 species of dolphins, 8 species of whales, 2 species of seals and 1 species of dugong), 2,626 species of sea fish (800 species associated with coral reefs, 92 cartilaginous fish) and 1,363 species of molluscs are recorded. The biodiversity of inland waters is equally recognized, notably Lake Niassa and the Zambezi Delta (MITADER, 2015).
+
+In order to contribute to curbing the current trend of biodiversity loss and degradation in Mozambique, and to ensure that in resilient and healthy ecosystems, sustainability in the use of its components and the benefits generated contribute to sustainable national development, the Government has formulated a Strategy and Action Plan for the Conservation of Biological Diversity in Mozambique 2015 - 2035. This recognises that one of the main causes of the threat to biodiversity is climate change, due to its potential to cause species extinctions, alter their spatial and temporal distribution and change fundamental biogeochemical and ecological processes. The Strategy acknowledges that there is little knowledge about the consequences of climate change on biological diversity in the country. However, it identifies the following: the alteration and/or loss of ecosystems (mainly vulnerable ones, such as mangroves, corals, marine meadows, mountainous ecosystems, flooded savannas, etc.) and, consequently, the well-being of populations that depend on the goods and services provided by ecosystems.
+
+Regarding coastal and marine ecosystems, the effects of climate change are estimated to result in the alteration of marine biodiversity by warming of the water column and acidification, leading to coral bleaching and death (MITADER, 2018). Currently, coral reefs of the coast of Mozambique are recovering from the losses that occurred in 1988 due to the bleaching phenomenon induced by increases in sea temperature caused by the El Niño Southern Oscillation (ENSO) phenomenon (MICOA, 2014).
+
+It should be noted that the impacts of climate change on some components of biodiversity have already been considered. In the section on fisheries, the effect of changes in climatic variables on the quality of marine and coastal habitats was described. In the section on pastures and livestock, the effect of drought on natural pastures was analyzed, which are the source of food not only for cattle, but also for wild herbivores, which in turn sustain wild carnivores. The main adaptive response of mobile organisms to climate change and reduced availability of resources and degradation of habitat conditions is movement to areas where there are adequate resources and conditions.
+
+In the agriculture section, the effect of low agricultural productivity caused by drought on deforestation was discussed, which results in loss of specimens, fragmentation of ecosystems and loss of connectivity in the landscape. Fragmentation blocks the movements of organisms to access resources and conditions suited to their physiological needs, but it also blocks the flow of genes between sub-populations, reducing their genetic vigor and resilience to climate change. In the section on forests, in addition to deforestation, potential changes in species composition in forests due to climate change were discussed.
+
+Extreme weather events affect the long-term viability of biodiversity conservation areas. On the one hand, low productivity in agriculture and livestock caused by extreme weather events, contributes to increased poverty and vulnerability of the rural population, which results in increased pressure on species and natural habitats to obtain livelihoods, causing loss of biodiversity. On the other hand, the sustainable use of biological resources is a climate change adaptation strategy, because it is a means of livelihood for families that lose their primary sources of livelihood due to extreme weather events. Therefore, the loss of biodiversity will exacerbate poverty.
+
+## Disaster risk: human safety and wellbeing
+
+## Social Protection
+
+___(From Second National Communication Draft)___
+
+According to ENAMMC, the effects of climate change have unequal consequences, affecting more heavily the most vulnerable groups, namely women, children, the elderly, people with disabilities, displaced people and the chronically ill. Poor people often depend on sectors that are highly susceptible to extreme weather (eg agriculture) and live in vulnerable areas and homes (World Bank, 2017). Climate change will make poor people poorer and poorer. Therefore, sectoral climate change adaptation programs or multi-sectoral initiatives should prioritize the poorest, most vulnerable people in order to increase their resilience to climate shocks. Women and girls are among the groups most affected by poverty. In rural areas, these are the main practitioners of agriculture to ensure food security for the family and are responsible for fetching water and woodfuel for domestic use. Climate change will reduce agricultural productivity, availability of water and firewood, which will exacerbate women's poverty and vulnerability. In this context, social protection measures, focusing on the most vulnerable social groups, will reduce the level of poverty and strengthen adaptation to climate change.
+

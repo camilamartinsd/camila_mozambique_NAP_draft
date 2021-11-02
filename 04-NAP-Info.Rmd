@@ -1,0 +1,76 @@
+# NAP Info
+
+## Vision, mission, and goals
+
+__Vision:__ “A prosperous and climate change resilient Mozambique, with a green economy in all social and economic sectors” (NCCAMS)
+
+__Mission:__ “reduce climate change vulnerability and improve the wellbeing of Mozambicans through the implementation of concrete measures for adaptation and climate risk reduction, promoting mitigation and low-carbon development, aiming at sustainable development, with the active participation of all stakeholders in the social, environmental and economic sectors” (NCCAMS)
+
+__Goals:__
+
+* Reduce climate risks through the strengthening of the early warning system and of the capacity to prepare and respond to climate risks;
+* Improve the capacity for integrated water resources management including building climate resilient hydraulic infrastructures;
+* Increase the effectiveness of land use and spatial planning (protection of floodplains, coastal and other areas vulnerable to floods);
+* Increase the resilience of agriculture, livestock and fisheries, guaranteeing the adequate levels of food security and nutrition;
+* Increase the adaptive capacity of the most vulnerable groups;
+* Reduce people’s vulnerability to climate change related vector-borne diseases or other diseases;
+* Ensure biodiversity’s protection;
+* Reduce soil degradation and promote mechanisms for the planting of trees for local use;
+* Develop resilient climate resilience mechanisms for infrastructures, urban areas and other human settlements and tourist and coastal zones;
+* Align the legal and institutional framework with the NCCAMS
+* Strengthen research and systematic observation institutions for the collection of data related to vulnerability assessment and adaptation to climate change;
+* Develop and ameliorate the level of knowledge and capacity to act on climate change; and
+* Promote the transfer and adoption of clean and climate change resilient technologies.
+
+
+## Framework for the NAP
+
+### The National Adaptation Plan Process in Mozambique
+
+### Essential functions of the NAP process
+
+### The NAP as the umbrella programme for adaptation
+
+### Coherence with national development context, SDGs, Sendai and other relevant frameworks
+
+## Institutional Arrangements and Coordination Mechanisms
+
+## Current climate change adaptation projects and activities
+
+## NAP Approach
+
+### Guiding principles
+
+___(Suggestion)___
+
+* Integration / mainstreaming
+* Inclusiveness / equity / vulnerability-focused - gender-sensitive / attention to vulnerable groups (women, children, youth, elderly, people with disabilities, indigenous people and traditional communities) / indigenous knowledge
+* Country-driven / country ownership / national context / national priorities
+* Transparency / good governance
+* Participatory / people-centered / social cohesion
+* Science and knowledge-based / ecosystem-based and community-based approaches
+* Principle of partnership
+* Innovation / technology
+* Flexibility
+
+
+### A systems approach to adaptation
+
+___(From General Outline Prototype NAP)___
+
+The Government of Mozambique identifies climate shocks and seasonal variability, over exploitation of marine and timber resources, solid waste management, environmental sanitation and uncontrolled bush fires as major challenges.
+
+_Key economic sectors and systems_
+
+![](Systems.png)
+
+### Road Map
+
+___(from Mozambique Country Climate Risk Assessment Report)___
+
+"Mozambique submitted the road map for the NAP to the UNFCCC and is receiving support from UNDP for the NAP process. With the assistance from UNDP, UN Environment National Adaptation Plan Global Support Programme (NAP-GSP) and additional financing from GIZ, the Mozambique Ministry of Land, Environment and Rural Development (MITADER) conducted training, connecting stakeholders from across the nation, with the aim to build a roadmap for a National Adaptation Plan. Mozambique has initiated the NAP process, an initiative which will contribute to a greater and deeper mainstreaming of climate change issues in the planning processes at all levels, in the medium and long-terms. The NAP road map was launched and the consultation process with national stakeholders and awareness of the NAP process started. The Government, working with UNDP and DANIDA submitted a proposal of $3m to GCF to access the readiness funds".
+
+
+___(From General Outline Prototype NAP)___
+
+![](Roadmap.png)
